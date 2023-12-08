@@ -1,0 +1,6 @@
+# Aylananing diametri d berilgan. Uning uzinligi aniqlansin L=pi*d
+Pi= 3.14
+d=input("Aylana diamtrini kiriting:")
+d=float(d)
+L=Pi*d
+print("Diametri", d, "ga teng bo'lgan aylana uzunligi", L , "ga teng")
